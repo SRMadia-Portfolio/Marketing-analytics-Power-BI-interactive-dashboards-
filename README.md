@@ -165,4 +165,16 @@ The customer reviews depict a positive response whereby 431 reviews gave a 4-sta
 
 ## :bar_chart: Data Visualization - Power BI 
 A detailed break down is given on four interactive dashboards; an overview of the entire project, conversion details, social media details and customer review details. Each of the dashboards has a slicer for a product drill down, year (i.e. 2023 – 2025) drill down and month (i.e. January – December) drill down to give a detailed break down of the data such as conversion rate by product or ratings given by the different customer reviews.
-Power BI - interactive dashboards: ![pbix](
+Power BI - interactive dashboards: ![pbix](vhttps://github.com/SRMadia-Portfolio/Marketing-analytics-Power-BI-interactive-dashboards-/blob/d344e4c04f46172be7da3fcc551b3fb035985dd8/Marketing%20analytics.pbix)
+
+## :pushpin: Actions and limitations
+### Conversion rate – percentage of customers who complete the lifecycle stages due to the marketing campaign
+Increase conversion rate
+Do a comparison study to look at campaigns which improved the conversion rates of high performing products such as Ski boots, Soccer ball and yoga mats, and apply similar strategies to the low performing products. Furthermore, determine if there are any active campaigns during periods with low conversion rates such as May and October. If any campaigns are active, determine if the campaigns align with the sports that are currently in season. 
+
+### Customer engagement rate – Metrics; number of clicks on campaigns, social media impressions and actual engagement on campaigns.
+Improve the customer engagement
+The campaign’s viewership is relatively high with low engagement. Reframe the campaigns to be more end user engaging and get the clientele to participate in the campaigns through their own social media platforms. Collaborate with a variety of influencers to garner different engagement mechanisms for the campaigns. 
+
+### Customer feedback score – reviews on products
+There’s sufficient data to interpret mixed and negative feedback of products from 2023 – 2025, determine whether the reviews are reoccurring from the same products. Have a minimum threshold of number of mixed or negative reviews a product can have in a month or quarterly. Look at the factors contributing to the mixed or negative reviews and address them.
