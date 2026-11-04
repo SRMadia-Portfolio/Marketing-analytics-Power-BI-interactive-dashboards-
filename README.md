@@ -149,3 +149,20 @@ WHERE
 	row_num = 1;
 ```
 
+Wrote a python script to pull data from the SQL dim_customer_review table in order to create a csv file which will have a customer sentiment score based on their reviews.
+Python script: ![ipynb](https://github.com/SRMadia-Portfolio/Marketing-analytics-Power-BI-interactive-dashboards-/blob/d8befdc03f3de7a02d505e124a5a9e843b0dcb5f/PortfolioProject-MarketingAnalytics.ipynb)
+
+## :notebook: Statistical analysis on Power BI
+## Overview
+### Decreased Conversion Rates:
+The highest declined is noted between January to February (i.e. 17.3% - 10.2%) and September to October (i.e. 12.2% - 6.1%). A change in seasonal sports periods accounts for the decline, with products such as Ski boots, Surfboards, Tennis rackets and Soccer balls having the highest conversion rate drop. October had the lowest conversion rate which indicates that the marketing campaigns need to be looked into to improve performance for the seasonal products during that period.
+
+### Reduced Customer Engagement:
+The highest views were in January (i.e. 982 444) which had a gradual decline throughout the year, with December having the lowest viewership (i.e. 510 022). Despite the high viewership, engagement (i.e. clicks and likes) with the campaigns remain low compared to the viewership. Blog posting accounted for the highest contribution towards viewership throughout the year besides October – December.
+
+### Customer Feedback Analysis:
+The customer reviews depict a positive response whereby 431 reviews gave a 4-star rating and 409 reviews gave a 5-star rating. On the opposite end, a small portion of customers gave lower ratings whereby 80 reviews gave a 1-star rating and 153 reviews gave a 2-star rating. Furthermore, a positive response is noted with the sentiment analysis whereby 840 reviews had a positive sentiment. However, 226 reviews gave a negative sentiment with mixed reviews of neutrality or disappointment. 
+
+## :bar_chart: Data Visualization - Power BI 
+A detailed break down is given on four interactive dashboards; an overview of the entire project, conversion details, social media details and customer review details. Each of the dashboards has a slicer for a product drill down, year (i.e. 2023 – 2025) drill down and month (i.e. January – December) drill down to give a detailed break down of the data such as conversion rate by product or ratings given by the different customer reviews.
+Power BI - interactive dashboards: ![pbix](
