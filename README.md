@@ -1,4 +1,4 @@
-# Marketing-analytics-Power-BI-interactive-dashboards
+# Marketing analytics Power BI interactive dashboards
 
 ## :hammer_and_wrench: Utilized tools
 - Microsoft Excel
